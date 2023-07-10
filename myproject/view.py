@@ -1,4 +1,3 @@
 from django.http import HttpResponse
 def home(request):
-    return HttpResponse("hello")
-    return HttpResponse("nothing")
+    return HttpResponse("hello everyone this is the summer class project and I will do my best.")
